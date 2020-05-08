@@ -16,5 +16,3 @@ teamTwoShotButton.addEventListener("click", function() {
     let newCounterValue = Number(teamTwoShotCounter.innerHTML) +1;
     teamTwoShotCounter.innerHTML = newCounterValue
 })
-
-    
